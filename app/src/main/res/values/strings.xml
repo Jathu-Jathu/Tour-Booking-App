@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">GO TOUR</string>
+    <string name="textView5">Embark On Your Dream Journey Today</string>
+    <string name="textView6">Explore New Places in Sri Lanka and Unlock Unforgettable Travel Experiences!</string>
+    <string name="button">Get Started</string>
+    <string name="text">GO TOUR</string>
+    <string name="text1">Login</string>
+    <string name="text3">Welcome Back!</string>
+    <string name="text4">Please login with your information</string>
+    <string name="text5">Email</string>
+    <string name="edit_text1">  Enter your email</string>
+    <string name="text6">Password</string>
+    <string name="edit_text2">  Enter your password</string>
+    <string name="textview">Forgot Password?</string>
+    <string name="button2">LOGIN</string>
+    <string name="textview2">Or Login with</string>
+    <string name="button15">Sign Up</string>
+    <string name="text66">Sign Up</string>
+    <string name="text7">Create An Account</string>
+    <string name="text8">"Let's get started</string>
+    <string name="textview8">Full Name</string>
+    <string name="edit_text3">  Enter your full name</string>
+    <string name="textview9">Email</string>
+    <string name="edit_text4">  Enter your email</string>
+    <string name="textview10">Password"</string>
+    <string name="edit_text5">  Enter your password</string>
+    <string name="textview11">Confirm Password</string>
+    <string name="edit_text6">  Confirm your password</string>
+    <string name="button3">Sign Up</string>
+    <string name="textview12">Already have an account?  Login</string>
+    <string name="textView4">Hi Jathu Shaa !</string>
+    <string name="textView8">Explore the</string>
+    <string name="textView80">Beautiful Sri Lanka!</string>
+    <string name="edit_text7">Search your destination</string>
+    <string name="textView23">Top Destinations</string>
+    <string name="textView16">Recommended</string>
+    <string name="textView17">See All</string>
+    <string name="button11">Galle Package</string>
+    <string name="button12">Colombo Package</string>
+    <string name="textView20">Demodara Nine Arch Bridge</string>
+    <string name="textView31">Coconut Tree Hill Mirissa</string>
+    <string name="textView21">Ella</string>
+    <string name="textView37">4.7</string>
+    <string name="textView28">Galle</string>
+    <string name="textView33">4.8</string>
+    <string name="textView10">My Profile</string>
+    <string name="textView13">Jathu Shaa</string>
+    <string name="textView14">jathu853@gmail.com</string>
+    <string name="button4">Edit Profile</string>
+    <string name="button5">Services</string>
+    <string name="button6">Languages</string>
+    <string name="button7">Help</string>
+    <string name="button8">About</string>
+    <string name="button9">Logout</string>
+    <string name="textView7">Galle Package</string>
+    <string name="textView18">$8000</string>
+    <string name="textView1">/Person</string>
+    <string name="textView30">Overview</string>
+    <string name="textView9">4.8</string>
+    <string name="button19">Book Now</string>
+    <string name="textView3">Galle Day Trip is organized by Bentota Travel Mart ( BTM ) for
+        the tourists who stay at Wadduwa, Waskaduwa, kalutara, Beruwala, Bentota, Kosgoda,
+        Ahungalla, Ambalangoda, Hikkaduwa, Galle, Unawatuna, Koggala, Ahangama, Weligama,
+        Mirissa.......</string>
+    <string name="textView11">Payment Method</string>
+    <string name="text15">First Name</string>
+    <string name="text18">Last Name</string>
+    <string name="text19">Card Number</string>
+    <string name="text28">EXP Date</string>
+    <string name="text29">CVV</string>
+    <string name="button10">Confirm Payment</string>
+    <string name="textView15">Thank You</string>
+    <string name="textView19">Come Back Soon!</string>
+    <string name="textView24">Booking Successful</string>
+    <string name="button1">Back To Home</string>
+    <string name="text30">Top Destinations</string>
+    <string name="text31">Galle Package</string>
+    <string name="text9">Galle Day Tour: Boat Safari, Stick Fishing and Turtles from Bentota.Watch
+        for wildlife on a river boat, visit a sea turtle rescue project,  explore cobbled
+        Galle Fort, and more;</string>
+    <string name="text10">$8000 Per Person</string>
+    <string name="text32">Colombo Package</string>
+    <string name="text33">Feel Colombo’s pulse and discover its sights in a way difficult to do
+        on this private half-day tuk-tuk tur. Choose a late-afternoon trip and settle into your
+        nimble 3-wheeler with your personal driver-guide.</string>
+    <string name="text34">$7000 Per Person</string>
+    <string name="text35">Kandy Package</string>
+    <string name="text36">Rising around a scenic lake, UNESCO-listed Kandy is home to
+        sacred landmarks, landscaped gardens, and cultural museums.</string>
+    <string name="text37">$6000 Per Person</string>
+    <string name="text38">Ella Package</string>
+    <string name="text40">"Laid-back Ella draws travelers to Sri Lanka's highlands with its
+        mountain forests, tea plantations, and relatively cool climate.</string>
+    <string name="text41">$7000 Per Person</string>
+    <string name="text44">Sigiriya Package</string>
+    <string name="text43">"Instead of long bus journeys or haggling with cabs, see
+        Sri Lanka's Sigiriya Rock and Dambulla Cave Temple in one stress-free and
+        illuminating private tour from Kandy. </string>
+    <string name="text45">$5000 Per Person</string>
+
+</resources>
+
