@@ -18,17 +18,14 @@ Android tour booking mobile application built with Kotlin, featuring authenticat
 
 ## 📸 Screenshots
 
-<p align="center">
-  <img src="startup-page.png" width="200"/>
-  <img src="login-page.png" width="200"/>
-</p>
+| Startup Page | Login Page |
+|---|---|
+| <img src="startup-page.png" width="220"/> | <img src="login-page.png" width="220"/> |
 
-<p align="center">
-  <img src="home-page.png" width="200"/>
-  <img src="destinations-page.png" width="200"/>
-</p>
+| Home Page | Destinations Page |
+|---|---|
+| <img src="home-page.png" width="220"/> | <img src="destinations-page.png" width="220"/> |
 
-<p align="center">
-  <img src="booking-page.png" width="200"/>
-  <img src="payment-method-page.png" width="200"/>
-</p>
+| Booking Page | Payment Method Page |
+|---|---|
+| <img src="booking-page.png" width="220"/> | <img src="payment-method-page.png" width="220"/> |
